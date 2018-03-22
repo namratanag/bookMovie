@@ -1,0 +1,41 @@
+.jumbotron{
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card{
+    max-width: 18rem; 
+    height:240px;
+    text-align: center;
+}
+
+.dot {
+  height: 200px;
+  width: 200px;
+  
+  border-radius: 5%;
+  display: inline-block;
+ font-size: 25px;
+  text-align:center;
+   line-height:200px;
+   margin-top: 40px;
+   margin-left:7%;
+    margin-right:7%;
+  
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+span.dot div{
+     vertical-align:middle;
+    margin:auto;
+  color:#fff;
+}
+#card2{
+    background: #e55812;
+}
+#card1{
+    background: #379122;
+}
+#card3{
+    background: #1a6ba8;
+}
