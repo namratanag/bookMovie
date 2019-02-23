@@ -15,6 +15,8 @@ import AddMovie from './component/addMovie'
 import DetailBook from './component/detail';
 class App extends Component {
   render() {
+    console.log("ROUTER ADDED APP.js");
+    console.log("ROUTER ADDED APP.js");
     return (
     
      <Router history={history}>
